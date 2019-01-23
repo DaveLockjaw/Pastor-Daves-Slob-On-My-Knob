@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  Skipping... (no relevant changes detected)
+  TheKnobs.cpp
+     Creating library build-win\vst2\x64\bin\TheKnobs.lib and object build-win\vst2\x64\bin\TheKnobs.exp
+  TheKnobs-vst2.vcxproj -> C:\wdl-ol\IPlugExamples\TheKnobs\build-win\vst2\x64\bin\TheKnobs.dll
+  TheKnobs-vst2.vcxproj -> build-win\vst2\x64\bin\TheKnobs.pdb (Partial PDB)

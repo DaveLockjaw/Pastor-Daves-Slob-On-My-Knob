@@ -1,0 +1,8 @@
+﻿  Filter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\sal.h(2866): warning RC4005: '__useHeader' : redefinition
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\sal.h(2876): warning RC4005: '__on_failure' : redefinition
+  
+  
+TheKnobs.rc(10): error RC2135: file not found: resources	heKnobs.ico
+  

@@ -1,0 +1,76 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  TheKnobs.cpp
+c:\wdl-ol\wdl\iplug\iplugstructs.h(223): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugstructs.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugstructs.h(231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugstructs.h(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugvst3.h(23): warning C4584: 'IPlugVST3': base-class 'Steinberg::Vst::IUnitInfo' is already a base-class of 'Steinberg::Vst::SingleComponentEffect'
+  c:\wdl-ol\vst3_sdk\pluginterfaces\vst\ivstunits.h(139): note: see declaration of 'Steinberg::Vst::IUnitInfo'
+  c:\wdl-ol\vst3_sdk\public.sdk\source\vst\vstsinglecomponenteffect.h(68): note: see declaration of 'Steinberg::Vst::SingleComponentEffect'
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C2039: 'TArray': is not a member of 'Steinberg'
+  c:\wdl-ol\vst3_sdk\pluginterfaces\vst\ivstcontextmenu.h(26): note: see declaration of 'Steinberg'
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C2143: syntax error: missing ';' before '<'
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C2238: unexpected token(s) preceding ';'
+  Filter.cpp
+  IPlugVST3.cpp
+c:\wdl-ol\wdl\iplug\iplugstructs.h(223): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugstructs.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugstructs.h(231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugstructs.h(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\wdl-ol\wdl\iplug\iplugvst3.h(23): warning C4584: 'IPlugVST3': base-class 'Steinberg::Vst::IUnitInfo' is already a base-class of 'Steinberg::Vst::SingleComponentEffect'
+  c:\wdl-ol\vst3_sdk\pluginterfaces\vst\ivstunits.h(139): note: see declaration of 'Steinberg::Vst::IUnitInfo'
+  c:\wdl-ol\vst3_sdk\public.sdk\source\vst\vstsinglecomponenteffect.h(68): note: see declaration of 'Steinberg::Vst::SingleComponentEffect'
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C2039: 'TArray': is not a member of 'Steinberg'
+  c:\wdl-ol\vst3_sdk\pluginterfaces\vst\ivstcontextmenu.h(26): note: see declaration of 'Steinberg'
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C2143: syntax error: missing ';' before '<'
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\wdl-ol\wdl\iplug\iplugvst3.h(138): error C2238: unexpected token(s) preceding ';'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(266): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(266): error C2228: left of '.removeAll' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(266): note: type is 'unknown-type'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(293): error C2039: 'remove': is not a member of 'Steinberg::Vst::BusList'
+  c:\wdl-ol\vst3_sdk\public.sdk\source\vst\vstbus.h(141): note: see declaration of 'Steinberg::Vst::BusList'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(302): error C2039: 'remove': is not a member of 'Steinberg::Vst::BusList'
+  c:\wdl-ol\vst3_sdk\public.sdk\source\vst\vstbus.h(141): note: see declaration of 'Steinberg::Vst::BusList'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(319): error C2039: 'remove': is not a member of 'Steinberg::Vst::BusList'
+  c:\wdl-ol\vst3_sdk\public.sdk\source\vst\vstbus.h(141): note: see declaration of 'Steinberg::Vst::BusList'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(782): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(782): error C2228: left of '.add' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(782): note: type is 'unknown-type'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(787): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(787): error C2228: left of '.total' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(787): note: type is 'unknown-type'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(789): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(789): error C2228: left of '.at' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(789): note: type is 'unknown-type'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(791): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(791): error C2228: left of '.removeAt' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(791): note: type is 'unknown-type'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(842): error C2039: 'kBFormat1stOrder': is not a member of 'Steinberg::Vst::SpeakerArr'
+  c:\wdl-ol\vst3_sdk\pluginterfaces\vst\vsttypes.h(170): note: see declaration of 'Steinberg::Vst::SpeakerArr'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(842): error C2065: 'kBFormat1stOrder': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(983): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(983): error C2228: left of '.at' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(983): note: type is 'unknown-type'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(983): error C2227: left of '->resize' must point to class/struct/union/generic type
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(997): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(997): error C2228: left of '.at' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(997): note: type is 'unknown-type'
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(1007): error C2065: 'viewsArray': undeclared identifier
+c:\wdl-ol\wdl\iplug\iplugvst3.cpp(1007): error C2228: left of '.at' must have class/struct/union
+  c:\wdl-ol\wdl\iplug\iplugvst3.cpp(1007): note: type is 'unknown-type'
+  vstsinglecomponenteffect.cpp
+c:\wdl-ol\vst3_sdk\base\source\updatehandler.h(41): fatal error C1083: Cannot open include file: 'base/thread/include/flock.h': No such file or directory
+  vstparameters.cpp
+  vstinitiids.cpp
+  vstcomponentbase.cpp
+  vstcomponent.cpp
+  vstbus.cpp
+  vstaudioeffect.cpp
+  pluginfactoryvst3.cpp
+  dllmain.cpp
+  pluginview.cpp
+  ustring.cpp
+  funknown.cpp
+  Generating Code...
